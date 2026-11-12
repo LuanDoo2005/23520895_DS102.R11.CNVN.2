@@ -38,3 +38,4 @@ class LinearRegression:
             "MAE": mae,
             "R2": r2
         }
+

@@ -49,3 +49,4 @@ r2 = r2_score(y_test, y_pred)
 print("=" * 10 + " ASSIGNMENT 4: SKLEARN LINEAR REGRESSION " + "=" * 10)
 print(f"MSE: {mse}")
 print(f"R2 Score: {r2}")
+
