@@ -83,7 +83,7 @@ rmse = np.sqrt(mse)
 mae = mean_absolute_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 
-print("=" * 10 + " BONUS ASSIGNMENT: CRAWLED DATA PRICE PREDICTION (100% NUMPY) " + "=" * 10)
+print("=" * 10 + " BONUS ASSIGNMENT: CRAWLED DATA (100% NUMPY) " + "=" * 10)
 print(f"MSE:  {mse:.4f}")
 print(f"RMSE: {rmse:.4f}")
 print(f"MAE:  {mae:.4f}")
